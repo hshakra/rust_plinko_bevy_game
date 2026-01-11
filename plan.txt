@@ -1,0 +1,6 @@
+PLAN
+
+TODO
+
+    detect ball collision and multiplier value
+    

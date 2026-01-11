@@ -1,4 +1,4 @@
-# Satisfying Drop Game
+# Satisfying Plinko Game
 
 Even though I don’t gamble and never will, I came across a game mechanic that felt surprisingly satisfying. I couldn’t find a version that was smooth and responsive, so I decided to build my own implementation in Rust using Bevy, focusing on performance and feel.
 

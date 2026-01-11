@@ -4,7 +4,7 @@ Even though I don’t gamble and never will, I came across a game mechanic that 
 
 ## Features
 
-![Feature A](assets/plink_gif.gif)
+![Feature A](assets/plinko_gif.gif)
 
 - Smooth and responsive ball physics
 - Built with Rust and the Bevy game engine
